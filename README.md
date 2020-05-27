@@ -4,8 +4,11 @@ Fundamentals of Data Analytics: HW3-1
 ## Requirements
 requirements.txt
 
-## Code & Report
+## Code
 main.ipynb
+
+## Report
+report.pdf
 
 ## Training Set
 train.csv
@@ -14,4 +17,4 @@ train.csv
 test.csv
 
 ## Last Changing Date
-final edit: 2020.05.20
+final edit: 2020.05.28
